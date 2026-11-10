@@ -1,0 +1,8 @@
+{
+  "name": "RapidResponse",
+  "description": "A centralized platform for reporting emergencies and enabling authorities to manage, prioritize, and coordinate incident responses in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
